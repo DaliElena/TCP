@@ -1,0 +1,7 @@
+D:\Учеба-Лена\4 курс 7 семестр\СТ\TC-C#\Client\Client\bin\Debug\Client.exe.config
+D:\Учеба-Лена\4 курс 7 семестр\СТ\TC-C#\Client\Client\bin\Debug\Client.exe
+D:\Учеба-Лена\4 курс 7 семестр\СТ\TC-C#\Client\Client\bin\Debug\Client.pdb
+D:\Учеба-Лена\4 курс 7 семестр\СТ\TC-C#\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\Учеба-Лена\4 курс 7 семестр\СТ\TC-C#\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Учеба-Лена\4 курс 7 семестр\СТ\TC-C#\Client\Client\obj\Debug\Client.exe
+D:\Учеба-Лена\4 курс 7 семестр\СТ\TC-C#\Client\Client\obj\Debug\Client.pdb

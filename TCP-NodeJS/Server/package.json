@@ -1,0 +1,11 @@
+{
+  "name": "my-TC-server",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node Server.js"
+  },
+  "dependencies": {
+    "random-words": "^1.1.1"
+  }
+}

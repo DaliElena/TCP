@@ -1,0 +1,7 @@
+{"name": "my-TC-client",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node Client.js"
+  }
+}
